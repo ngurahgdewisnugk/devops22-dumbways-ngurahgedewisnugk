@@ -26,7 +26,7 @@ Karena DevOps bukan hanya tentang alat atau teknologi, tapi juga tentang budaya 
 - h.	Untuk pembuktian, silahkan coba ping ke google.com untuk pengetesan koneksi bridge network pada instace yang sudah dibuat.
   ![image](https://github.com/user-attachments/assets/5277a0e2-05bb-4329-a7eb-b52da6c96431)
 
-## 2. Buatlah 1 Virtual Machine (bebas ingin menggunakan Multipass, VMware, Virtualbox, etc) dengan spec menyesuaikan.
+## 3. Install apache2 WebServer ke dalam Virtual Machine yang telah kalian buat.
 - a.	pertama lakukan upgrade dan update version terlebih dahulu, agar system *up-to-date*
   
    `
