@@ -48,6 +48,12 @@ git commit -m "fix: Typo on Description"`.  Teguh kebetulan juga membuat perubah
 
 ![image](https://github.com/user-attachments/assets/86931637-20b9-42a3-9e35-d2539678f527)
 
+![image](https://github.com/user-attachments/assets/f5f7d57d-7448-41ec-a4bb-048ea5bdea2e)
+
+![image](https://github.com/user-attachments/assets/3f71943a-0a2b-4d80-a370-a774f3ed6701)
+
+![image](https://github.com/user-attachments/assets/185db3d9-d503-4064-882f-96bcc7868eb9)
+
 ![image](https://github.com/user-attachments/assets/ec2eb30c-58e1-456e-b7e4-59e53d726c0e)
 
 ![image](https://github.com/user-attachments/assets/e7a543b1-e16b-4c02-946e-8cbd816a9935)
