@@ -92,13 +92,13 @@ Tugas kalian adalah melakukan beberapa manipulasi text menggunakan perintah `sed
 
   - membuat script install web-server
     
-    ![image](https://github.com/user-attachments/assets/827d7648-d146-49c8-acde-9104a7584837)
+    ![image](https://github.com/user-attachments/assets/aab75a40-a043-4f0b-8928-75cbe8d7458f)
+
   - menambah grant access execute pada user
     
     ![image](https://github.com/user-attachments/assets/c069af30-a241-4d36-99b0-9b7eed2edc22)
   - jalankan script nginx
     
-    ![image](https://github.com/user-attachments/assets/1a32909f-0072-49a4-8ee8-0a480a08aee7)
     ![image](https://github.com/user-attachments/assets/45bdca60-2362-4e3b-a4c2-83fd40c510aa)
     ![image](https://github.com/user-attachments/assets/22a2dbf9-98ec-462e-9e96-8b81f508d768)
 
